@@ -1,0 +1,34 @@
+{
+    "approved_devices": [
+        {
+            "name": "Hitesh Ksheersagar",
+            "employee_id": "EMP101",
+            "ip_address": "119.235.52.56",
+            "mac_address": "40-C2-BA-7B-9D-88"
+        },
+        {
+            "name": "Priya Verma",
+            "employee_id": "EMP102",
+            "ip_address": "192.168.1.11",
+            "mac_address": "00:1B:3C:4D:5E:6F"
+        },
+        {
+            "name": "Rahul Nair",
+            "employee_id": "EMP103",
+            "ip_address": "192.168.1.12",
+            "mac_address": "00:2C:3D:4E:5F:60"
+        },
+        {
+            "name": "Sneha Patil",
+            "employee_id": "EMP104",
+            "ip_address": "192.168.1.13",
+            "mac_address": "00:3D:4E:5F:6A:7B"
+        },
+        {
+            "name": "Amit Sharma",
+            "employee_id": "EMP105",
+            "ip_address": "192.168.1.14",
+            "mac_address": "00:4E:5F:6A:7B:8C"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+Employee ID,Name,Username,Email,Role,MAC Address,Device,Location,Last Login
+EMP101,Hitesh Ksheersagar,hitesh.k,hitesh.k@example.com,Network Admin,,40:C2:BA:7B:9D:88,Lenevo LOQ 15IRX9,"Hyderabad",2025-03-14 11:41:06
+EMP102,Priya Verma,priya.v,priya.v@example.com,Cybersecurity Analyst,,00:1B:3C:4D:5E:6F,MacBook Pro M1,"Delhi",2025-03-14 11:41:06
+EMP103,Rahul Nair,rahul.n,rahul.n@example.com,Software Engineer,,00:2C:3D:4E:5F:60,HP EliteBook 850,"Bangalore",2025-03-14 11:41:06
+EMP104,Sneha Patil,sneha.p,sneha.p@example.com,Security Engineer,,00:3D:4E:5F:6A:7B,Lenovo ThinkPad T14,"Pune",2025-03-14 11:41:06
+EMP105,Amit Sharma,amit.s,amit.s@example.com,System Administrator,,00:4E:5F:6A:7B:8C,Surface Laptop 4,"Hyderabad",2025-03-14 11:41:06

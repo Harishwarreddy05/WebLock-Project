@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "hitksh",
+            "password": "Hit@1825!"
+        },
+        {
+            "username": "priyaverma",
+            "password": "Priya#Secure789"
+        },
+        {
+            "username": "rahulnair",
+            "password": "Rahul@Nair#2024"
+        },
+        {
+            "username": "snehapatil",
+            "password": "Sneha$Patil@456"
+        },
+        {
+            "username": "amitsharma",
+            "password": "Amit!Sharma#999"
+        }
+    ]
+}
