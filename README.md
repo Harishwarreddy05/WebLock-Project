@@ -99,7 +99,7 @@ WebLock goes beyond the basics, integrating **threat intelligence** to:
 
 ### **1. Clone the Repository:**
 ```bash
-git clone https://github.com/hitksh18/weblock-p.git
+git clone https://github.com/Harishwarreddy05/WebLock-Project.git
 
 cd WebLock
 ```
