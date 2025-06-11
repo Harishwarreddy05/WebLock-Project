@@ -136,7 +136,7 @@ We welcome contributions! If you want to help improve **WebLock**, feel free to:
 
 ## **Contact:**
 - **Developer**: Harishwar Reddy
-- **Email**: sentinels1825@gmail.com
+- **Email**: Seelamharishwarreddy@gmail.com
 - **GitHub**: Harishwarreddy05
 
 ---
